@@ -327,9 +327,10 @@ tsutils@^2.3.0:
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/tsutils/-/tsutils-2.4.0.tgz#ad4ce6dba0e5a3edbddf8626b7ca040782189fea"
 
-typescript@^2.3.3:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.4.0.tgz#aef5a8d404beba36ad339abf079ddddfffba86dd"
+typescript@^2.9.2:
+  version "2.9.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.9.2.tgz#1cbf61d05d6b96269244eb6a3bce4bd914e0f00c"
+  integrity sha512-Gr4p6nFNaoufRIY4NMdpQRNmgxVIGMs4Fcu/ujdYk3nAZqk7supzBE9idmvfZIlH/Cuj//dvi+019qEue9lV0w==
 
 user-home@^1.1.1:
   version "1.1.1"
