@@ -15,7 +15,7 @@
     "reinstall-ngo": "rimraf node_modules/ngo && npm i ../../../"
   },
   "dependencies": {
-    "@angular/common": "^4.2.3",
+    "@angular/common": "^19.2.16",
     "@angular/compiler": "^4.2.3",
     "@angular/compiler-cli": "^4.2.3",
     "@angular/core": "^4.2.3",
